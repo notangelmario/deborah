@@ -1,2 +1,2 @@
 # deborah
-An AI assistant to help you through out Minecraft
+An AI assistant to help you throughout Minecraft
